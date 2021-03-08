@@ -8,4 +8,14 @@ In recent years, processing the images that contain human faces has been a growi
 ## Result image 1
 ![result1](https://github.com/vishalbpatil1/Supper-face-detection-or-crowd-detection/blob/main/output.jpg)
 ## Result image 2
-![result1](https://github.com/vishalbpatil1/Supper-face-detection-or-crowd-detection/blob/main/result1.jpg)
+![result1](https://github.com/vishalbpatil1/Supper-face-detection-or-crowd-detection/blob/main/result1.png)
+# Video demo screenshot 
+### front face + back face
+![result1](https://github.com/vishalbpatil1/Supper-face-detection-or-crowd-detection/blob/main/Screenshot (141).png)
+
+## front face
+![result1](https://github.com/vishalbpatil1/Supper-face-detection-or-crowd-detection/blob/main/Screenshot (142).png)
+
+## back face
+![result1](https://github.com/vishalbpatil1/Supper-face-detection-or-crowd-detection/blob/main/Screenshot (143).png)
+
