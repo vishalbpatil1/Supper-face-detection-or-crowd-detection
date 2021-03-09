@@ -1,4 +1,4 @@
-'''run on Anaconda prompt streamlit run mask_gui.py'''
+'''run on Anaconda prompt streamlit run app.py'''
 import streamlit as st
 import pandas as pd
 import numpy  as np
